@@ -1,0 +1,36 @@
+.search-form__content{
+    margin: 0 auto;
+    padding: 40px 15px;
+    max-width: 1230px;
+    text-align: center;
+}
+.search-form{
+    display: flex;
+    justify-content: center;
+}
+.search-form__item{
+    width: 300px;
+    padding: 0 5px;
+}
+.search-form__item-select{
+    padding: 10px;
+    width: 100%;
+    height: 40px;
+    border-radius: 3px;
+    appearance: none;
+    border: 1px solid black;
+}
+.search-form__button{
+    padding: 0 5px;
+    width: 120px;
+
+}
+.search-form__button-submit{
+    background-color: black;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 3px;
+    height: 40px;
+    width: 100%;
+    cursor: pointer;
+}
